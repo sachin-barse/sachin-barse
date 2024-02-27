@@ -1,6 +1,6 @@
 ### Hi there 👋, Sachin Barse 
 
-I am a Software Engineer with over 15 years of experience in website development, design and database management. I hold an AWS Certified Cloud Practitioner certification. I have in-depth knowledge of a wide range of technologies, including PHP, NodeJs, CodeIgniter, Laravel, MySql, PostgreSQL, AWS, HTML, CSS, Ajax, Jquery, etc
+I am a Software Engineer with over 16 years of experience in website development, design and database management. I hold an AWS Certified Cloud Practitioner certification. I have in-depth knowledge of a wide range of technologies, including PHP, NodeJs, CodeIgniter, Laravel, MySql, PostgreSQL, AWS, HTML, CSS, Ajax, Jquery, etc
 
 Throughout my career, I have worked on a variety of projects for clients from different domains such as Real Estate, Education, Finance, and more. My skills extend beyond development, to include database design, management, and writing complex SQL queries. Additionally, I enjoy mentoring team members, providing training, and performing code reviews.
 
